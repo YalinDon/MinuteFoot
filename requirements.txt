@@ -1,0 +1,5 @@
+selenium
+beautifulsoup4
+schedule
+facebook-sdk
+webdriver-manager
